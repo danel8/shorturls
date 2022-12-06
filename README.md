@@ -70,8 +70,6 @@ Copy the `index.js` code from this project to Cloudflare Worker.
 
 Click Save and Deploy
 
-# Demo
-https://020.name
  
 Note: Because someone abuse this demo website, all the generated link may be deleted at any time. For long-term use, please deploy your own.
 
